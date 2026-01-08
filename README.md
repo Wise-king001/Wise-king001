@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate software developer with 10 years of programming experience, currently working with the Havocweb Tech Team. I'm deeply invested in AI and have completed 892 projects across various domains. My focus is on building innovative solutions that push the boundaries of technology.
+I'm a passionate software developer with 10 years of programming experience, currently working with the Havocweb Technologies Team. I'm deeply invested in AI and have completed 492 projects across various domains. My focus is on building innovative solutions that push the boundaries of technology.
 
 
 ## 🌐 Socials:
